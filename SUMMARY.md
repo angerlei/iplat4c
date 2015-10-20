@@ -1,8 +1,8 @@
 # Summary
 
 * [介绍](README.md) 
-* [开发辅助工具](IDKUpdate.md)
-	* [IDK](IDKUpdate.md)  
+* [开发辅助工具](IDKupdate.md)
+	* [IDK](IDKupdate.md)  
 	* [国际化](I18N.md)    
 * [平台客户端](iplat4C.md)
     * [自定义平台](EPUser.md)
